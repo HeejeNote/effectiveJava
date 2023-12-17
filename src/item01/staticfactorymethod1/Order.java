@@ -1,4 +1,4 @@
-package item01;
+package item01.staticfactorymethod1;
 
 public class Order {
     /**

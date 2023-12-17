@@ -1,9 +1,7 @@
-package item01;
+package item01.staticfactorymethod1;
 
-public class Item01 {
+public class Item01Main {
     public static void main(String[] args) {
-
-
 
 //        Settings settings = new Settings(); //  default 생성자 private 처리로 인해 인스턴스 생성 불가
 
